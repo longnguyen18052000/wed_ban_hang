@@ -1,0 +1,96 @@
+.login .img {
+    background: #fbe9e7;
+}
+
+.login .content {
+    padding: 20px 20px;
+}
+
+.login .content .icon{
+    color: #fff;
+}
+
+.login .content .icon .facebook{
+    background: #4267B2;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.login .content .icon .facebook i{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.login .content .icon .google{
+    background: #4385F5;
+    border-radius: 5px;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.login .content .icon .google i{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.login .content .login-form .enter{
+    display: inline;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: #E5E5E5;
+    padding: 5px 0px 5px 0px;
+    border-radius: 5px;
+}
+
+.login .content .foot{
+    align-items: center;
+    justify-content: space-between;
+    width: 47%;
+    border-bottom: 2px solid #afafaf;
+}
+
+.login .content .login-form .check{
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+.login .content .click button{
+    width: 49%;
+    font-weight: bold;
+}
+
+.login .content .click button:nth-last-of-type(2){
+    background: transparent linear-gradient(180deg,#00917a 0%,#00483d 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0 4px 6px #00000029;
+    border-radius: 3px;
+    border: none;
+    padding: 12px;
+    color: #FFF;
+}
+
+.login .content .click button:nth-last-of-type(1){
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #fff;
+    color: black;
+}
+
+.login .content .click .btn-register:hover{
+    color: #00917a;
+}
+/* end login */
+
+/* resgiter */
+.resgiter .item{
+    background: #fff;
+}
+
+.resgiter .item .img{
+    background: #fbe9e7;
+}
+/* end resgiter */
