@@ -187,13 +187,13 @@ header nav .nav-content .content span i {
 }
 
 
-
 .sticky .content {
     border-radius: 0 !important;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-left: 93px;
     margin-right: 93px;
+    
 }
 
 .sticky .content a {
@@ -218,6 +218,9 @@ header nav .nav-content .content span i {
     margin: 0 4px 0 0 !important;
 }
 
+.sticky .hover_phone{
+    margin-left: 160px;
+}
 /* end hover */
 /* end .header */
 
